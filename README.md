@@ -21,6 +21,10 @@ https://github.com/Mohmmad-Emad-Fteha/web2_final_project.git
 
 •	بيانات تسجيل الدخول : 
 الدور	الإيميل	كلمة المرور	الصلاحيات
-مدير	admin@gmail.com	Admin123_	كامل الصلاحيات
-عميل تجريبي	user@gmail.com	User123_	إيجار السيارات فقط
+مدير	admin@gmail.com
+Admin123_
+كامل الصلاحيات
+عميل تجريبي	user@gmail.com
+User123_	
+إيجار السيارات فقط
 
